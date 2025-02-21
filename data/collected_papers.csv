@@ -60,7 +60,6 @@ TRUE,30,"Orometry, Intrinsic Dimensionality and Learning: Novel Insights into Ne
 TRUE,830,Automatic Data Cleaning,FALSE,FALSE,TRUE,FALSE,https://pure.tue.nl/ws/portalfiles/portal/125540462/
 TRUE,437,Interpretable differencing of machine learning models,FALSE,FALSE,TRUE,FALSE,https://proceedings.mlr.press/v216/haldar23a.html
 TRUE,1076,A comparative evaluation of outlier detection algorithms: Experiments and analyses,FALSE,FALSE,TRUE,FALSE,https://www.sciencedirect.com/science/article/pii/S0031320317303916
-Just names - paper removed,843,"<span class=""gs_ctu""><span class=""gs_ct1"">[ZITATION]</span><span class=""gs_ct2"">[C]</span></span> <span id=""JtCalO2e8rsJ"">Marc Becker Martin Binder Bernd Bischl Natalie Foss Lars Kotthoff Michel Lang Florian Pfisterer Nicholas G. Reich Jakob Richter</span>",FALSE,FALSE,TRUE,FALSE,
 TRUE,1198,Joints in random forests,FALSE,FALSE,TRUE,FALSE,https://proceedings.neurips.cc/paper/2020/hash/8396b14c5dff55d13eea57487bf8ed26-Abstract.html
 TRUE,886,The Online Performance Estimation Framework,FALSE,FALSE,TRUE,FALSE,https://ada.liacs.nl/papers/RijEtAl18b.pdf
 TRUE,987,An empirical study of modular bias mitigators and ensembles,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2202.00751
@@ -74,7 +73,6 @@ TRUE,1674,Revisiting minimum description length complexity in overparameterized 
 TRUE,1014,Integration of feature selection stability in model fitting,FALSE,FALSE,TRUE,TRUE,https://eldorado.tu-dortmund.de/bitstream/2003/40023/1/Dissertation_Bommert.pdf
 TRUE,230,of thesis AutoML: Comparing Performance with Human-Designed Solu,FALSE,FALSE,TRUE,FALSE,https://aaltodoc.aalto.fi/server/api/core/bitstreams/f2919dfc-9053-463d-9fd8-f8a367326cb4/content
 TRUE,1713,Democratising artificial intelligence to accelerate scientific discovery,FALSE,FALSE,TRUE,FALSE,https://www.oecd-ilibrary.org/science-and-technology/artificial-intelligence-in-science_be9632d7-en
-Just names - paper removed,1615,"<span class=""gs_ctu""><span class=""gs_ct1"">[ZITATION]</span><span class=""gs_ct2"">[C]</span></span> <span id=""UerIAt9YVFwJ"">Recomendação de algoritmos em fluxos de dados com mudança de conceito</span>",FALSE,FALSE,TRUE,FALSE,
 TRUE,373,Why Do Tree Ensemble Approximators Not Outperform the Recursive-Rule eXtraction Algorithm?,FALSE,TRUE,FALSE,FALSE,https://www.mdpi.com/2504-4990/6/1/31
 TRUE,781,SML-AutoML: A Smart Meta-Learning Automated Machine Learning Framework,FALSE,TRUE,TRUE,FALSE,https://www.academia.edu/download/104614536/latest.pdf
 TRUE,941,Active Learning Query Strategy Selection Using Dataset Meta-features Extraction,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-3-031-34107-6_15
