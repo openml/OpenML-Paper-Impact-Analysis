@@ -1721,3 +1721,70 @@ TRUE,82,Local learning for dynamic ensemble selection,FALSE,TRUE,TRUE,FALSE,http
 TRUE,1144,Cyber Diversity Index for Sustainable Self-Control of Machines,FALSE,FALSE,TRUE,FALSE,https://www.tandfonline.com/doi/abs/10.1080/01969722.2022.2081896
 TRUE,1355,Towards benchmarking feature type inference for automl platforms,FALSE,FALSE,TRUE,FALSE,https://dl.acm.org/doi/abs/10.1145/3448016.3457274
 TRUE,950,Fire: An optimization approach for fast interpretable rule extraction,FALSE,FALSE,TRUE,FALSE,https://dl.acm.org/doi/abs/10.1145/3580305.3599353
+FALSE,1721,Croissant: A metadata format for ml-ready datasets,FALSE,FALSE,TRUE,FALSE,https://proceedings.neurips.cc/paper_files/paper/2024/hash/9547b09b722f2948ff3ddb5d86002bc0-Abstract-Datasets_and_Benchmarks_Track.html
+FALSE,1722,Tunetables: Context optimization for scalable prior-data fitted networks,FALSE,FALSE,TRUE,FALSE,https://proceedings.neurips.cc/paper_files/paper/2024/hash/97dc07f1253ab33ee514f395a82fa7cc-Abstract-Conference.html
+FALSE,1723,Genetic programming for feature selection based on feature removal impact in high-dimensional symbolic regression,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10466603/
+FALSE,1724,Dissecting sample hardness: A fine-grained analysis of hardness characterization methods for data-centric ai,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2403.04551
+FALSE,1725,"Deep learning through a telescoping lens: A simple model provides empirical insights on grokking, gradient boosting &amp; beyond",FALSE,FALSE,TRUE,FALSE,https://proceedings.neurips.cc/paper_files/paper/2024/hash/df334022279996b07e0870a629c18857-Abstract-Conference.html
+FALSE,1726,MLSea: a semantic layer for discoverable machine learning,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-3-031-60635-9_11
+FALSE,1727,Reshuffling resampling splits can improve generalization of hyperparameter optimization,FALSE,FALSE,TRUE,FALSE,https://proceedings.neurips.cc/paper_files/paper/2024/hash/47811ee68103bfcde7ca2223fccefb3a-Abstract-Conference.html
+FALSE,1728,Embedded ethics for responsible artificial intelligence systems (EE-RAIS) in disaster management: A conceptual model and its deployment,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/article/10.1007/s43681-023-00309-1
+FALSE,1729,Designing an ml auditing criteria catalog as starting point for the development of a framework,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10464309/
+FALSE,1730,Hyperparameter tuning MLP's for probabilistic time series forecasting,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-981-97-2266-2_21
+FALSE,1731,ROPAC: rule optimized aggregation classifier,FALSE,FALSE,TRUE,FALSE,https://www.sciencedirect.com/science/article/pii/S0957417424007632
+FALSE,1732,Binning as a pretext task: Improving self-supervised learning in tabular domains,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2405.07414
+FALSE,1733,4dbinfer: A 4d benchmarking toolbox for graph-centric predictive modeling on relational dbs,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2404.18209
+FALSE,1734,Sok: A review of differentially private linear models for high-dimensional data,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10516654/
+FALSE,1735,Multiclass graph-based large margin classifiers: Unified approach for support vectors and neural networks,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10616182/
+FALSE,1736,4DBInfer: A 4d benchmarking toolbox for graph-centric predictive modeling on RDBs,FALSE,FALSE,TRUE,FALSE,https://proceedings.neurips.cc/paper_files/paper/2024/hash/2fd67447702c8eff5683dda507a1b0a2-Abstract-Datasets_and_Benchmarks_Track.html
+FALSE,1737,Tabular transfer learning via prompting llms,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2408.11063
+FALSE,1738,T-Explainer: A model-agnostic explainability framework based on gradients,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2404.16495
+FALSE,1739,Learning to transfer for evolutionary multitasking,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2406.14359
+FALSE,1740,CCO: A cluster core-based oversampling technique for improved class-imbalanced learning,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10555431/
+FALSE,1741,Querying easily flip-flopped samples for deep active learning,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2401.09787
+FALSE,1742,Data science with llms and interpretable models,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2402.14474
+FALSE,1743,Comparative evaluation of imbalanced data management techniques for solving classification problems on imbalanced datasets,FALSE,FALSE,TRUE,FALSE,http://www.iapress.org/index.php/soic/article/view/1890
+FALSE,1744,Sequential large language model-based hyper-parameter optimization,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2410.20302
+FALSE,1745,Metaqure: Meta-learning from model quality and resource consumption,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-3-031-70368-3_13
+FALSE,1746,Enhancing cross-modal fine-tuning with gradually intermediate modality generation,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2406.09003
+FALSE,1747,InterpreTabNet: distilling predictive signals from tabular data by salient feature interpretation,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2406.00426
+FALSE,1748,AutoML insights: Gaining confidence to Operationalize Predictive models,FALSE,FALSE,TRUE,FALSE,https://www.intechopen.com/online-first/1179126
+FALSE,1749,Optimal weighted random forests,FALSE,FALSE,TRUE,FALSE,http://www.jmlr.org/papers/v25/23-0607.html
+FALSE,1750,Mldm: Machine learning data market based on multi-agent systems,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10528655/
+FALSE,1751,Lf-transformer: Latent factorizer transformer for tabular learning,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10401112/
+FALSE,1752,A Hybrid approach for binary classification of imbalanced data,FALSE,FALSE,TRUE,FALSE,https://www.worldscientific.com/doi/abs/10.1142/S1469026824500135
+FALSE,1753,Entropy-Regularized Token-Level Policy Optimization for Language Agent Reinforcement,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2402.06700
+FALSE,1754,Shapley-based data valuation method for the machine learning data markets (MLDM),FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-3-031-62700-2_16
+FALSE,1755,Uncertainty estimation with recursive feature machines,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=TBKLXswKnO
+FALSE,1756,"Kglids: A platform for semantic abstraction, linking, and automation of data science",FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10597753/
+FALSE,1757,Distributed genetic algorithm for feature selection,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2401.10846
+FALSE,1758,Fine-tuned In-Context Learning Transformers are Excellent Tabular Data Classifiers,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2405.13396
+FALSE,1759,Information leakage detection through approximate bayes-optimal prediction,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2401.14283
+FALSE,1760,Quantifying local model validity using active learning,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2406.07474
+FALSE,1761,MoRE-LLM: Mixture of Rule Experts Guided by a Large Language Model,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10884197/
+FALSE,1762,Advancing research reproducibility in machine learning through blockchain technology,FALSE,FALSE,TRUE,FALSE,https://content.iospress.com/articles/informatica/infor553
+FALSE,1763,Learning a decision tree algorithm with transformers,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2402.03774
+FALSE,1764,Trust regions for explanations via black-box probabilistic certification,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2402.11168
+FALSE,1765,Iterative regularization with k-support norm: an important complement to sparse recovery,FALSE,FALSE,TRUE,FALSE,https://ojs.aaai.org/index.php/AAAI/article/view/29057
+FALSE,1766,Tabflex: Scaling tabular learning to millions with linear attention,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=f8aganC0tN
+FALSE,1767,Empirical Comparison between Cross-Validation and Mutation-Validation in Model Selection,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-3-031-58553-1_5
+FALSE,1768,Cyber diversity index for sustainable self-control of machines,FALSE,FALSE,TRUE,FALSE,https://www.tandfonline.com/doi/abs/10.1080/01969722.2022.2081896
+FALSE,1769,Forward composition propagation for explainable neural reasoning,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10384511/
+FALSE,1770,Advancing deep active learning &amp; data subset selection: Unifying principles with information-theory intuitions,FALSE,FALSE,TRUE,FALSE,https://arxiv.org/abs/2401.04305
+FALSE,1771,Comparative Analysis of Oversampling Techniques and Deep Learning for Imbalanced Tabular Data,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10903102/
+FALSE,1772,Fast and Understandable Nonlinear Supervised Dimensionality Reduction,FALSE,FALSE,TRUE,FALSE,https://link.springer.com/chapter/10.1007/978-3-031-78977-9_25
+FALSE,1773,LLM Prompting Strategies in Automated Machine Learning,FALSE,FALSE,TRUE,FALSE,https://ieeexplore.ieee.org/abstract/document/10908759/
+FALSE,1774,Ein formales Modell fur Anwendungen Kunstlicher Intelligenz in Automatisierungssystemen,FALSE,FALSE,TRUE,FALSE,https://epub.sub.uni-hamburg.de/epub/volltexte/2025/183719/pdf/openHSU_16768.pdf#page=124
+FALSE,1775,Decision Tree Induction via Semantically-Aware Evolution,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=UyhRtB4hjN
+FALSE,1776,Reliable statistical inference: controlling the false discovery proportion in high-dimensional multivariate estimators,FALSE,FALSE,TRUE,FALSE,https://theses.hal.science/tel-04935172/
+FALSE,1777,Optimal Learning of Kernel Logistic Regression for Complex Classification Scenarios,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=WlhVRh2rQ0
+FALSE,1778,Towards Trustworwhy Machine Learning using Unlabeled Data,FALSE,FALSE,TRUE,FALSE,https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/698135/thesis.pdf?sequence=6
+FALSE,1779,Constraint-aware machine learning,FALSE,FALSE,TRUE,FALSE,https://search.proquest.com/openview/8ea1111d565ecf43742237b6b55664ce/1?pq-origsite=gscholar&cbl=2026366&diss=y
+FALSE,1780,Data Centric Optimisation in AutoML,FALSE,FALSE,TRUE,FALSE,https://estudogeral.uc.pt/retrieve/277691/MSc_Thesis_Joana_Simoes_Data_centric_optimisation_in_AutoML.pdf
+FALSE,1781,Multi-Agent-Based Collaborative Machine Learning in Distributed Resource Environments,FALSE,FALSE,TRUE,FALSE,https://hammer.purdue.edu/articles/thesis/Multi-Agent-Based_Collaborative_Machine_Learning_in_Distributed_Resource_Environments/26314504
+FALSE,1782,Real-time human activity recognition with KANs,FALSE,FALSE,TRUE,FALSE,https://repositorio.ipl.pt/entities/publication/72ac1b36-4ac2-4429-a851-54e09fbaba3f
+FALSE,1783,Range-limited Augmentation for Few-shot Learning in Tabular Data,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=kTH3bEH6hW
+FALSE,1784,Optimized Oversampling,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=ZSzmWtY31e
+FALSE,1785,Distribution Shift Aware Neural Feature Transformation,FALSE,FALSE,TRUE,FALSE,https://openreview.net/forum?id=TXjYOslkUh
+FALSE,1786,An opensource library for AutoML multimodal clustering on Apache Spark,FALSE,FALSE,TRUE,FALSE,https://www.mathnet.ru/eng/znsl7550
+FALSE,1787,Amélioration des explications attributives locales pour appuyer l'analyse prédictive par apprentissage automatique: application au secteur de la santé et aux outils d'&nbsp;…,FALSE,FALSE,TRUE,FALSE,https://publications.ut-capitole.fr/id/eprint/50553/
