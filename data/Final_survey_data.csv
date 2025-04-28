@@ -901,8 +901,6 @@ from the OpenML repository [106]""",No,,No,,No,,No,,,,,Yes
 893,,504,Boosting meta-learning with simulated data complexity measures,2020.0,,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 894,,603,Learning to Transfer for Evolutionary Multitasking,2020.0,,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 895,,715,NEVIS'22: A Stream of 100 Tasks Sampled from 30 Years of Computer Vision Research,2023.0,,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,No
-896,,31,Decision Tree Induction Through Meta-learning,,,,,,,,,,,,,,,,,,,,Submitted through form,
-897,,364,Multiple adaptive Bayesian linear regression for scalable Bayesian optimization with warm start,,,,,,,,,,,,,,,,,,,,Submitted through form,
 898,,1435,TrIM: Transformed iterative Mondrian forests for gradient-based dimension reduction and high-dimensional regression,2024.0,,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 899,,604,3.12 Welcome to Parameter Land–Visual Parameter Space Exploration,2023.0,,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,No
 900,,1115,Continuous Integration for&nbsp;Reproducible Shared Tasks with&nbsp;<kbd>TIRA.io</kbd>,2023.0,,Yes,No,,No,,No,,No,,No,,No,,No,,No,,On shared reproducible tasks,No
