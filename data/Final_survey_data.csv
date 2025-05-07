@@ -534,7 +534,7 @@ backwards compatibility of ML models.""",No
 529,2025-02-09 14:56:30,471,Integrating Hyperparameter Search into Model-Free AutoML with Context-Free Grammars,2023.0,Yes,Yes,No,,Yes,,Yes,OpenML-CC18,No,,No,,No,,No,,No,,,No
 530,2025-02-09 14:57:30,1650,論文審査の結果の要旨,2021.0,Yes,No,,,,,,,,,,,,,,,,,,
 531,2025-02-09 14:58:43,1032,The Importance of the Test Set Size in Quantification Assessment,2020.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
-532,2025-02-09 15:03:20,881,Asset management in machine learning: A survey,2021.0,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,"mentions explicitly that ""advanced databases are beyond the scope of the study""",No
+532,2025-02-09 15:03:20,811,Asset management in machine learning: A survey,2021.0,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,"mentions explicitly that ""advanced databases are beyond the scope of the study""",No
 533,2025-02-09 15:04:31,292,Combining Multi-ratio Undersampling and Metric Learning for Imbalanced Classification,2021.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 534,2025-02-09 15:05:51,1461,An Ensemble Model for 2D-data Classification based on Classical & Deep Learning Classifier,2024.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 535,2025-02-09 15:08:20,1441,HPOBench: A collection of reproducible multi-fidelity benchmark problems for HPO,2022.0,Yes,Yes,Yes,"Feurer, Mallik",Yes,,Yes,AutoML benchmark,No,,No,,No,,No,,No,,"paper integrates well with OpenML processes (explains task ids, etc)",No
