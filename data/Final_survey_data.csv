@@ -789,7 +789,6 @@ from the OpenML repository [106]""",No,,No,,No,,No,,,,,Yes
 782,,1450,Predicting Scores of Medical Imaging Segmentation Methods with Meta-learning,2020.0,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,No
 783,,1126,The open international soccer database for machine learning,2018.0,Yes,Yes,No,,No,,No,,No,,No,,No,,Yes,"Decided against uploading their data to OpenML, instead, they used OSF (seemingly as OpenML only supports a limited number of data formats)",No,,,No
 784,,1629,An effective feature subset selection approach based on Jeffries-Matusita distance for multiclass problems,2022.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
-785,,675,Impact of sampling on learning asymmetric-entropy decision trees from imbalanced data.,2019.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 786,,19,On the optimality gap of warm-started hyperparameter optimization,2022.0,Yes,Yes,No,,No,"They said they will use some, but no names were mentioned",No,,No,,No,,No,,No,,No,,,No
 787,,375,TablEye: Seeing small Tables through the Lens of Images,2023.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 788,,662,An evaluative measure of clustering methods incorporating hyperparameter sensitivity,2022.0,Yes,Yes,No,,Yes,,Yes,CC-18,No,,No,,No,,No,,No,,,No
