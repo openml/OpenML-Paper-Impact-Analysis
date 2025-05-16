@@ -1745,3 +1745,70 @@ have fewer than 100,000 instances""",No,,No,,No,,No,,No,,No,,,No
 1713,2/20/2025,7,Active Automated Machine Learning with Self-Training,2024.0,Yes,Yes,No,,Yes,CC18,Yes,CC18,No,,No,,No,,No,,No,,,No
 1714,2/20/2025,975,A Unified Approach to Extract Interpretable Rules from Tree Ensembles via Integer Programming,2025.0,Yes,Yes,No,,Yes,"Mercedes_Benz, Moneyball, abalone, autoMpg, bank32nh, boston, cpu_small, elevators, house_16H, houses, kin8nm, mtp, no2, pol, puma32H, socmob, space_ga, stock, tecator, us_crime, wind, wine_quality",No,,No,,No,,No,,No,,No,,,No
 1715,4/25/2025 16:17:28,1695,Optimizing Classification Algorithms through <i>dMeans</i>: A Novel Dimensionality Reduction Technique,2024.0,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
+1716,,1721,Croissant: A metadata format for ml-ready datasets,2024,yes,yes,yes,"Pieter Gijsbers, Joaquin Vanshoren",No,"Uses CIFAR as one example, but unclear whether OpenML is used. Not an ML paper.",no,,no,,no,,no,,no,,"yes, already is probably",It's croissant.,citation only,no
+1717,,1722,Tunetables: Context optimization for scalable prior-data fitted networks,2024,yes,yes,yes,Frank Hutter,yes,,no,"Uses TabZilla, not on OpenML I think? In particular they are using 98 datasets that are implicitly defined in the tabzilla paper, not the actual tabzilla benchmark.",no,,no,,no,,no,,no,,,no
+1718,,1723,Genetic programming for feature selection based on feature removal impact in high-dimensional symbolic regression,2024,yes,paywall,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1719,,1724,Dissecting sample hardness: A fine-grained analysis of hardness characterization methods for data-centric ai,2024,yes,yes,no,,yes,,no,"Grinsztajn, not on OpenML?",no,,no,,no,,no,,no,,,no
+1720,,1725,"Deep learning through a telescoping lens: A simple model provides empirical insights on grokking, gradient boosting &amp; beyond",2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1721,,1726,MLSea: a semantic layer for discoverable machine learning,2024,yes,yes,no,,yes,,no,,yes,"mines everything (datasets, flows, tasks, even runs!) with metadata to create knowledge graph.",no,,no,,yes,reuses and extends meta-data schema,maybe,Discusses ml metadata in depth,,no
+1722,,1727,Reshuffling resampling splits can improve generalization of hyperparameter optimization,2024,yes,yes,yes,"Bernd Bischl, Matthias Feurer",yes,,no,,,no,,,no,,no,,no,,,no
+1723,,1728,Embedded ethics for responsible artificial intelligence systems (EE-RAIS) in disaster management: A conceptual model and its deployment,2023,yes,paywall/can't access,no,,,,,,,,,,,,,,,,,
+1724,,1729,Designing an ml auditing criteria catalog as starting point for the development of a framework,2024,yes,yes,no,,no,,no,,no,,no,,no,,no,,no,,citation only,no
+1725,,1730,Hyperparameter tuning MLP's for probabilistic time series forecasting,2024,yes,yes,no,,no,,no,,no,,no,,no,,no,,no,,citation only,no
+1726,,1731,ROPAC: rule optimized aggregation classifier,2024,yes,paywall,no,,,,,,,,,,,,,,,,,
+1727,,1732,Binning as a pretext task: Improving self-supervised learning in tabular domains,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1728,,1733,4dbinfer: A 4d benchmarking toolbox for graph-centric predictive modeling on relational dbs,2024,yes,yes,no,,no,,no,,no,,no,,no,,no,,no,,citation only,no
+1729,,1734,Sok: A review of differentially private linear models for high-dimensional data,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1730,,1735,Multiclass graph-based large margin classifiers: Unified approach for support vectors and neural networks,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1731,,1736,4DBInfer: A 4d benchmarking toolbox for graph-centric predictive modeling on RDBs,duplicate see above,,,,,,,,,,,,,,,,,,,,
+1732,,1737,Tabular transfer learning via prompting llms,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1733,,1738,T-Explainer: A model-agnostic explainability framework based on gradients,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1734,,1739,Learning to transfer for evolutionary multitasking,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1735,,1740,CCO: A cluster core-based oversampling technique for improved class-imbalanced learning,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1736,,1741,Querying easily flip-flopped samples for deep active learning,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1737,,1742,Data science with llms and interpretable models,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1738,,1743,Comparative evaluation of imbalanced data management techniques for solving classification problems on imbalanced datasets,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1739,,1744,Sequential large language model-based hyper-parameter optimization,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1740,,1745,Metaqure: Meta-learning from model quality and resource consumption,2024,yes,yes,no,,yes,,no,,no,,no,,no,,yes,discusses absence of computational resources from openml metadata,no,,,no
+1741,,1746,Enhancing cross-modal fine-tuning with gradually intermediate modality generation,2024,yes,yes,no,,yes,,yes,cc18,no,,no,,no,,no,,no,,,no
+1742,,1747,InterpreTabNet: distilling predictive signals from tabular data by salient feature interpretation,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1743,,1748,AutoML insights: Gaining confidence to Operationalize Predictive models,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1744,,1749,Optimal weighted random forests,2023,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1745,,1750,Mldm: Machine learning data market based on multi-agent systems,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1746,,1751,Lf-transformer: Latent factorizer transformer for tabular learning,2024,yes,yes,no,,maybe,uses Gorishniy data but no reference to OpenML in text,no,Gorishniy ,no,,no,,no,,no,,no,,Citation is absent from the text?,no
+1747,,1752,A Hybrid approach for binary classification of imbalanced data,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1748,,1753,Entropy-Regularized Token-Level Policy Optimization for Language Agent Reinforcement,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1749,,1754,Shapley-based data valuation method for the machine learning data markets (MLDM),2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1750,,1755,Uncertainty estimation with recursive feature machines,2024,yes,yes,no,,no,,no,"Grinsztajn, not on OpenML?",no,,no,,no,,no,,no,,,no
+1751,,1756,"Kglids: A platform for semantic abstraction, linking, and automation of data science",2023,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,"discusses learning from openml pipelines, but doesn't seem to actually do that. Actually extracts pipelines from kaggle instead of using the well-defined ones on openml.",no
+1752,,1757,Distributed genetic algorithm for feature selection,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1753,,1758,Fine-tuned In-Context Learning Transformers are Excellent Tabular Data Classifiers,2024,yes,yes,no,,yes,,no,Tabzilla,no,,no,,no,,no,,no,,,no
+1754,,1759,Information leakage detection through approximate bayes-optimal prediction,2024,yes,yes,yes,Marcel Wever,yes,All uploaded by authors,yes,Bleichenbacher Attack Training Set - Timing Attacks Benchmark (task collection 383),no,,yes,"87 datasets, see collection",no,,yes,creates task collection,maybe,"creates a task collection, but is by a core member, so maybe less convincing evidence?",,no
+1755,,1760,Quantifying local model validity using active learning,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1756,,1761,MoRE-LLM: Mixture of Rule Experts Guided by a Large Language Model,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1757,,1762,Advancing research reproducibility in machine learning through blockchain technology,2024,yes,yes,no,,no,,no,,no,,no,,no,,no,,no,,citation only,no
+1758,,1763,Learning a decision tree algorithm with transformers,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1759,,1764,Trust regions for explanations via black-box probabilistic certification,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1760,,1765,Iterative regularization with k-support norm: an important complement to sparse recovery,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1761,,1766,Tabflex: Scaling tabular learning to millions with linear attention,2024,yes,yes,yes,Andreas Mueller,yes,,no,,no,,no,,no,,no,,no,,,no
+1762,,1767,Empirical Comparison between Cross-Validation and Mutation-Validation in Model Selection,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1763,,1768,Cyber diversity index for sustainable self-control of machines,2024,no,yes,,,,,,,,,,,,,,,,,,
+1764,,1769,Forward composition propagation for explainable neural reasoning,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1765,,1770,Advancing deep active learning &amp; data subset selection: Unifying principles with information-theory intuitions,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,yes
+1766,,1771,Comparative Analysis of Oversampling Techniques and Deep Learning for Imbalanced Tabular Data,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1767,,1772,Fast and Understandable Nonlinear Supervised Dimensionality Reduction,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1768,,1773,LLM Prompting Strategies in Automated Machine Learning,2024,yes,yes,no,,yes,,yes,AutoML Regression and classification 271 and 269,no,,no,,no,,no,,no,,,no
+1769,,1774,Ein formales Modell fur Anwendungen Kunstlicher Intelligenz in Automatisierungssystemen,2024,yes,no,no,,no,,no,,no,,no,,no,,no,,no,,citation only,no
+1770,,1775,Decision Tree Induction via Semantically-Aware Evolution,2024,yes,yes,no,,yes,,yes,subsets of CC-18 and CTR-23,no,,no,,no,,no,,no,,,no
+1771,,1776,Reliable statistical inference: controlling the false discovery proportion in high-dimensional multivariate estimators,2024,yes,yes,no,,yes,,no,Grinsztajn,no,,no,,no,,no,,no,,,yes
+1772,,1777,Optimal Learning of Kernel Logistic Regression for Complex Classification Scenarios,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1773,,1778,Towards Trustworwhy Machine Learning using Unlabeled Data,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,yes
+1774,,1779,Constraint-aware machine learning,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,yes
+1775,,1780,Data Centric Optimisation in AutoML,2024,yes,yes,no,,yes,,yes,automl benchmark,no,,no,,no,,no,,no,,,yes
+1776,,1781,Multi-Agent-Based Collaborative Machine Learning in Distributed Resource Environments,2024,yes,yes,no,,no,,no,,no,,no,,no,,no,,no,,citation only,yes
+1777,,1782,Real-time human activity recognition with KANs,2024,no,yes,,,,,,,,,,,,,,,,,couldn't find / access paper,
+1778,,1783,Range-limited Augmentation for Few-shot Learning in Tabular Data,2024,yes,yes,no,,yes,,no,tabzilla,no,,no,,no,,no,,no,,,no
+1779,,1784,Optimized Oversampling,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1780,,1785,Distribution Shift Aware Neural Feature Transformation,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1781,,1786,An opensource library for AutoML multimodal clustering on Apache Spark,2024,yes,yes,no,,yes,,no,,no,,no,,no,,no,,no,,,no
+1782,,1787,Amélioration des explications attributives locales pour appuyer l'analyse prédictive par apprentissage automatique: application au secteur de la santé et aux outils d'&nbsp;…,2024,yes,no,no,,yes,,yes,"meta-sparsity, #109",no,,no,,no,,no,,no,,,
