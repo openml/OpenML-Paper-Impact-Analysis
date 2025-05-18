@@ -75,7 +75,6 @@ Unnamed: 0,Timestamp,Paper ID (from shared sheet),Paper Title,Paper Year,Paper A
 71,2025-01-23 21:06:38,960,ChampKit: A framework for rapid evaluation of deep neural networks for patch-based histopathology classification,2023,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,mentions openml benchmark in related work. not used in the paper.,
 72,2025-01-23 21:16:51,74,Dsa-PAML: a parallel automated machine learning system via dual-stacked autoencoder,2022,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,uses 550 openml datasets to train their automl system.,
 73,2025-01-24 6:24:55,895,OBOE: Collaborative filtering for AutoML model selection,2019,Yes,Yes,No,,Yes,,No,,No,,No,,Unclear,,No,,No,,"Experiments were conducted using midsize OpenML datasets with between 150 and 10,000 data points.",
-74,2025-01-24 7:48:18,1279,Similarity Measures Recommendation for Mixed Data Clustering,2024,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,"The main focus of the paper is on the meta-learning approach for recommending similarity measure pairs, and the OpenML datasets are used to build and evaluate this approach",
 75,2025-01-24 8:20:38,164,Disease classification using neighbourhood centroid opposition based multi-objective flamingo search algorithm based feature selection approach,2023,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,"The authors collected 60 classification datasets from various sources including Kaggle, UCI, and OpenML.",
 76,2025-01-24 11:25:10,1560,Self-service data science in healthcare with automated machine learning,2020,Yes,Yes,No,,Yes,,Yes,OpenML100,No,,No,,No,,Yes,Uses the AutoML Benchmark Framework for medical datasets.,No,,,
 77,2025-01-24 11:30:55,308,Deducing neighborhoods of classes from a fitted model,2024,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,Novel interpretable machine learning method shown on OpenML yeast dataset,
@@ -492,7 +491,6 @@ backwards compatibility of ML models.""",No
 486,2025-02-08 17:37:28,679,Scarf: Self-supervised contrastive learning using random feature corruption,2022,Yes,Yes,Yes,,Yes,,Yes,CC18,No,,No,,No,,No,,No,,,No
 487,2025-02-08 17:39:43,409,Interaction forests: Identifying and exploiting interpretable quantitative and qualitative interaction effects,2022,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 488,2025-02-08 17:41:02,50,Feature selection with scalable variational gaussian process via sensitivity analysis based on L2 divergence,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
-489,2025-02-08 17:41:59,901,MementoML: Performance of selected machine learning algorithm configurations on OpenML100 datasets,2020,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 490,2025-02-08 17:42:53,551,Optimizing Data Pre-Processing Transformations with Reinforcement Learning,2022,Yes,Yes,No,,Yes,,Yes,CC18,No,,No,,No,,No,,No,,,Yes
 492,2025-02-08 17:43:52,1443,A two-step anomaly detection based method for PU classification in imbalanced data sets,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 493,2025-02-08 17:44:59,1680,Coalitional strategies for efficient individual prediction explanation,2022,Yes,Yes,Yes,,Yes,,No,,No,,No,,No,,No,,No,,,No
@@ -1620,10 +1618,8 @@ OVA-Breast, OVA-Uterus, OVA-Ovary, OVA-Kidney, OVA-Lung, OVA-Omentum, OVA-Colon,
 OVA-Endometrium, and OVA-Prostate, ",No,na,No,na,No,na,No,na,No,na,No,,,No
 1593,,1502,Hellinger distance decision trees for PU learning in imbalanced data sets,2022,Yes,Yes,No,na,Yes,"Pizza Cutter 1, and Satellite",No,na,No,na,No,na,No,na,No,na,No,,,No
 1594,,531,Metadata Models and Methods for Smart Buildings,2020,Yes,Yes,No,na,No,openml only referenced,No,na,No,na,No,na,No,na,No,na,No,,,Yes
-1595,,895,OBOE: Collaborative filtering for AutoML model selection,2019,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,"OpenML datasets are used as a key resource for training, testing, and evaluating Oboe",
 1596,,1279,Similarity Measures Recommendation for Mixed Data Clustering,2024,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,"Uses OpenML to obtain a variety of mixed datasets, preprocesses them, and uses these datasets to train and evaluate their proposed meta-learning approach",
 1597,,759,Different approaches to fitting and extrapolating the learning curve,2022,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,datasets from OpenML to create empirical learning curves,Yes
-1598,,164,Disease classification using neighbourhood centroid opposition based multi-objective flamingo search algorithm based feature selection approach,,No,,,,,,,,,,,,,,,,,,,
 1599,,1586,Unbiased gradient boosting decision tree with unbiased feature importance,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,"OpenML is mentioned as one of the platforms from which datasets were taken, along with Kaggle and UCI",No
 1600,,1463,"<span class=""gs_ctu""><span class=""gs_ct1"">[ZITATION]</span><span class=""gs_ct2"">[C]</span></span> <span id=""GblUBr0xMb8J"">Efficient bayesian hyperparameter optimization</span>",,No,,,,,,,,,,,,,,,,,,,
 1601,,1580,"Automated machine learning: methods, systems, challenges",2019,Yes,Yes,Yes,Joaquin,Yes,,Yes,AutoWeka,,,,,,,,,No,,,No
