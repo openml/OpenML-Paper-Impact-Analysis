@@ -21,10 +21,10 @@ The first questions were mainly designed to ensure the answers correspond to the
 
 The review process yielded the following results:
 
-- **Total papers initially identified**: 1719
-- **Papers not fully available**: 155
-- **Papers not in English and without available translations**: 66  
-   (*21 papers were both unavailable and not in English.*)
-- **Papers with incorrect publication year**: 31
-- **Papers requiring further review (excluded from the initial analysis)**: 6
-- **Final papers analyzed**: 1482
+- **Total papers initially identified**: 1789
+- **Papers not fully available**: 184
+- **Papers not in English and without available translations**: 72  
+   (*22 papers were both unavailable and not in English.*)
+- **Papers published after 2025**: 24
+(*Note: We exclude papers published in 2025 as the year is still in progress, to avoid skewed interpretations of trends.*)
+- **Final papers analyzed**: 1528
