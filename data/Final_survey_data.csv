@@ -1,6 +1,5 @@
 Unnamed: 0,Timestamp,Paper ID (from shared sheet),Paper Title,Paper Year,Paper Available,Paper in English,Does the paper have at least 1 current OpenML Core Member as co-author?,"If yes, which Core Members?",Does the paper use datasets from OpenML?,"If unclear, one sentence explanation?","Does the paper use a collection (at least 2 or more) of datasets that are defined by OpenML designated to do benchmarking (e.g., openml benchmarking suites)?","If yes, which benchmark suites?","Does the paper use OpenML experiment data (i.e., utilise results from runs)? ","if yes: short (e.g., 1 sentence) explanation: how does it use this data?",Does the paper upload datasets to OpenML?,"If yes, which dataset?",Does the paper upload experiment data to OpenML?,"if yes: short (e.g., 1 sentence) explanation: what type of experiments?",Does the paper interact in any other way with OpenML?,"if yes: short (e.g., 1 sentence) explanation how?",Star it as some cool project to be showcased in our paper?,"If yes, please motivate your answer",Optional short description,"Is the paper a thesis (Bachelor's, Master's, or PhD)?"
 1784,2025-05-17,593,"Advances in Computational Intelligence: 16th International Work-Conference on Artificial Neural Networks, IWANN 2021, Virtual Event, June 16–18, 2021&nbsp;…",2021,No,Yes,,,,,,,,,,,,,,,,,,
-1783,2025-05-17,811,Asset management in machine learning: A survey,2021,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,
 0,2025-01-20 17:42:12,1236,"Optimal or Greedy Decision Trees? Revisiting their Objectives, Tuning, and Performance",2024,Yes,Yes,No,,Yes,,Unclear,"Mentions using ""large benchmark set from OpenML"", but no mention of which benchmark suite.",No,,No,,No,,No,,No,,,
 1,2025-01-21 10:38:07,675,Impact of sampling on learning asymmetric-entropy decision trees from imbalanced data.,2019,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,
 2,2025-01-21 13:41:44,1377,Efficient density and cluster based incremental outlier detection in data streams,2022,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,
@@ -642,10 +641,8 @@ backwards compatibility of ML models.""",No
 640,2025-02-15 14:56:55,437,Interpretable differencing of machine learning models,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 641,2025-02-15 14:59:32,1076,A comparative evaluation of outlier detection algorithms: Experiments and analyses,2018,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,"Quite some citations (500), but only uses some OpenML datasets.",No
 642,2025-02-17 10:04:18,1101,MetaQuRe: Meta-learning from Model Quality and Resource Consumption,2024,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
-643,2025-02-17 10:06:06,1467,A Review of Machine Learning Ontologies,2021,paywall,,,,,,,,,,,,,,,,,,,
 644,2025-02-17 10:07:21,1467,Towards automated imbalanced learning with deep hierarchical reinforcement learning,2022,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
 645,2025-02-17 10:11:36,443,Selectively Contextual Bandits,2022,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
-646,2025-02-17 10:14:23,1472,Multilabel classification with R package mlr,2017,Yes,Yes,Yes,"GC, BB",Yes,,No,,No,,Yes,,No,,No,,No,,,No
 647,2025-02-17 10:16:11,677,Towards provable network traffic measurement and analysis via semi-labeled trace datasets,2018,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,No
 648,2025-02-17 10:18:49,740,Multi-objective parameter configuration of machine learning algorithms using model-based optimization,2016,Yes,Yes,Yes,BB,Yes,,No,,No,,No,,No,,No,,No,,,No
 649,2025-02-17 10:20:43,5,Counterfactuals: an R package for counterfactual explanation methods,2023,Yes,Yes,Yes,"BB, GC",Yes,,No,,No,,No,,No,,No,,No,,,No
@@ -1282,14 +1279,12 @@ from the OpenML repository [106]""",No,,No,,No,,No,,,,,Yes
 1280,,1544,Hyperparameter tuning and performance assessment of statistical and machine-learning algorithms using spatial data,2019,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,
 1281,,210,"A Holistic, Decision-Theoretic Framework for Pool-Based Active Learning",2021,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,uses 22 datasets,
 1282,,1575,Homological Convolutional Neural Networks,2023,Yes,Yes,No,,Yes,,Yes,"CC-18, Tabular benchmark numerical classification",No,,No,,No,,No,,No,,"arxiv, uses 9 datasets",
-1283,,108,Nearest Centroid Classifier Based on Information Value and Homogeneity,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,"conference paper, uses 45 datasets",
 1284,,1492,A constructive function-theoretic approach to topological compactness,2016,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,"NOT referenced, not cited",
 1285,,1642,Saint: Improved neural networks for tabular data via row attention and contrastive pre-training,2021,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,"NOT referenced, not cited",
 1286,,623,Landscape Aware Algorithm Selection for the Feature Selection Problem,,No,,,,,,,,,,,,,,,,,,NOT AVAILABLE,
 1287,,1045,HyperFast: Instant Classification for Tabular Data,2024,Yes,Yes,No,,Yes,,Yes,CC-18,No,,No,,No,,No,,No,,"conference paper, uses 85 datasets",
 1288,,864,Extracting enhanced artificial intelligence model metadata from software repositories,2022,Yes,Yes,No,,No,,No,,No,,No,,No,,No,,No,,,
 1289,,1656,Dynamic pruning of a neural network via gradient signal-to-noise ratio,2021,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,conference paper,
-1290,,78,A Genetic Programming Encoder for Increasing Autoencoder Interpretability,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,conference paper,
 1291,,1720,MAP-Elites with Cosine-Similarity for Evolutionary Ensemble Learning,2023,Yes,Yes,No,,Yes,,Yes,PMLB,No,,No,,No,,No,,No,,conference paper,
 1292,,870,Theoretical and practical aspects of finite closure systems for mining and learning,2023,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,,,"Dissertation, comment: it cites OpenML along with UCI because it used 3 datasets Banana, Banknote and DeltaAilerons but does not say which data comes from which source (UCI or OpenML)",Yes
 1293,,1668,Silas: A high-performance machine learning foundation for logical reasoning and verification,2021,Yes,Yes,No,,Yes,,No,,No,,No,,No,,No,,No,,,No
