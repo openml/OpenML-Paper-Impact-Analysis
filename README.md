@@ -11,3 +11,5 @@ This repository contains the dataset and code used to analyse the impact of Open
    `docs/methodology.md`: Methodology used for impact analysis.
 5. Documentation: \
 `docs/methodology.md` Details of the review methodology and questionnaire used for the analysis.
+
+Note: We exclude papers published in 2025 as the year is still in progress, to avoid skewed interpretations of trends.
