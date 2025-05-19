@@ -1,11 +1,4 @@
 venv
 *.json
-papers citing openml review - Sheet1.csv
-papers citing openml review - Andreas.csv
-adding_additional_paper.ipynb
-correct_data_entry.ipynb
-scraped_paper_reviewer_assignment
-<<<<<<< Updated upstream
 scripts/Datasets_and_Benchmark_per_year.pdf
-=======
->>>>>>> Stashed changes
+
