@@ -21,7 +21,7 @@ The first questions were mainly designed to ensure the answers correspond to the
 
 The review process yielded the following results:
 
-- **Total papers initially identified**: 1789
+- **Total papers initially identified**: 1786
 - **Papers not fully available**: 184
 - **Papers not in English and without available translations**: 72  
    (*22 papers were both unavailable and not in English.*)
